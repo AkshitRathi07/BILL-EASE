@@ -1,0 +1,3 @@
+node_modules
+.envecho ".env" >> .gitignore
+.env
